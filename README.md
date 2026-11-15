@@ -2,6 +2,7 @@
 
 A phone-first PWA for logging speed intervals and steady cardio, with a calendar, progress charts and next-session suggestions. Data is stored in `localStorage` on the device.
 
+
 ```bash
 npm install
 npm run dev      # develop
